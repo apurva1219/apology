@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sorry, My Love</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>I'm So Sorry, [Boyfriend's Name]</h1>
+        <p class="message">
+            I know I messed up, and I feel terrible about it. You mean the world to me, and I promise to make it right. Please forgive me? I love you more than words can say.
+        </p>
+        <button id="forgive-btn">Will You Forgive Me?</button>
+        <div id="surprise" class="hidden">
+            <p>Thank you! Here's a virtual hug: 🤗❤️</p>
+            <img src="https://via.placeholder.com/300x200?text=Our+Happy+Memory" alt="A happy memory" class="memory-img">
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
